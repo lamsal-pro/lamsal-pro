@@ -1,13 +1,13 @@
 <h1 align="center">Bonjour 👋 It's me Siddharth!</h1>
 <h3 align="center">A computer geek who loves programming! :D</h3>
 
-- 🔭 I’m currently working on **Some stuffs!**
+- 🔭 I’m currently working on **Facebook Clone.**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Cyber Security.**
 
-- 💬 I'm pretty good at` **JavaScript, Frontend Development**
+- 💬 I'm pretty good at **Frontend Development.**
 
-- ⚡ Superhero **Of course, Batman's my favourite.**
+- ⚡ My favourite superhero is **The Dark Knight.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
